@@ -9,7 +9,7 @@
 
 **A comprehensive collection of interview questions for AI and ML roles**
 
-[Explore Questions](#-role-specific-interview-questions) • [Contribute](#-contributing) • [About](#-about)
+[Explore Questions](#-role-specific-interview-questions) • [Repository Structure](#repository-structure) • [About](#-about)
 
 </div>
 
