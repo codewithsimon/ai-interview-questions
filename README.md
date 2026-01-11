@@ -4,7 +4,6 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/codewithsimon/ai-interview-questions?style=social)](https://github.com/codewithsimon/ai-interview-questions/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/codewithsimon/ai-interview-questions?style=social)](https://github.com/codewithsimon/ai-interview-questions/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/codewithsimon/ai-interview-questions)](https://github.com/codewithsimon/ai-interview-questions/issues)
 [![GitHub license](https://img.shields.io/github/license/codewithsimon/ai-interview-questions)](https://github.com/codewithsimon/ai-interview-questions/blob/main/LICENSE)
 
 **A comprehensive collection of interview questions for AI and ML roles**
