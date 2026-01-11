@@ -93,33 +93,6 @@ Each role guide typically covers:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to add questions, improve existing content, or suggest new roles, please:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/add-new-questions`)
-3. Make your changes
-4. Commit your changes (`git commit -am 'Add new questions for XYZ role'`)
-5. Push to the branch (`git push origin feature/add-new-questions`)
-6. Open a Pull Request
-
-### Contribution Guidelines
-
-- Ensure questions are relevant to the specific role
-- Maintain consistent formatting with existing documents
-- Include clear and concise questions
-- Add answers or explanations where appropriate
-- Proofread for grammar and technical accuracy
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## ⭐ Support
 
 If you find this repository helpful, please consider: 
