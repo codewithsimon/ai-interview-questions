@@ -40,7 +40,7 @@ This repository contains interview questions tailored for the following AI/ML ro
 | **AI Product Engineer** | Building and productizing AI applications | [View Questions](AI%20Product%20Engineer.md) |
 | **LLM Application Engineer** | Developing applications powered by Large Language Models | [View Questions](LLM%20Application%20Engineer.md) |
 | **Conversational AI Engineer** | Creating chatbots and conversational interfaces | [View Questions](Conversational%20AI%20Engineer.md) |
-| **Agentic AI Developer** | Building autonomous AI agents and multi-agent systems | [View Questions](Agentic%20AI%20Developer. md) |
+| **Agentic AI Developer** | Building autonomous AI agents and multi-agent systems | [View Questions](Agentic%20AI%20Developer.md) |
 | **MLOps Engineer** | ML operations, deployment, and infrastructure | [View Questions](MLOps%20Engineer.md) |
 
 ### 🔬 Research & Architecture Roles
