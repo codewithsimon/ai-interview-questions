@@ -99,7 +99,6 @@ If you find this repository helpful, please consider:
 
 - Giving it a ⭐ star
 - Sharing it with others preparing for AI interviews
-- Contributing your own questions and insights
 
 ---
 
@@ -115,6 +114,6 @@ Have questions or suggestions? Feel free to [open an issue](https://github.com/c
 
 **Happy Interview Prep!  🎯**
 
-Made with ❤️ by the AI Community
+Made with ❤️ by [Stephen SIMON](https://linkedin.com/in/codewithsimon)
 
 </div>
