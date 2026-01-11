@@ -1,4 +1,4 @@
-# 🤖 AI Interview Questions
+# AI Interview Questions
 
 <div align="center">
 
