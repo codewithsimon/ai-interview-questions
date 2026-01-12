@@ -105,8 +105,6 @@ If you find this repository helpful, please consider:
 
 Created by [@codewithsimon](https://github.com/codewithsimon)
 
-Have questions or suggestions? Feel free to [open an issue](https://github.com/codewithsimon/ai-interview-questions/issues/new)!
-
 ---
 
 <div align="center">
